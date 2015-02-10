@@ -14,13 +14,16 @@
             "": "src/"
         }
     },
+    "include-path": [
+        "src/"
+    ],
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=PEAR",
         "source": "https://github.com/pear/pear-core-minimal"
     },
     "type": "library",
     "require": {
-        "pear/console_getopt": "~1.2",
-        "pear/pear_exception": "*"
+        "pear/console_getopt": "~1.3",
+        "pear/pear_exception": "~1.0"
     }
 }
