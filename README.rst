@@ -17,10 +17,8 @@ Included files
 ==============
 - ``OS/Guess.php``
 - ``PEAR.php``
-- ``PEAR5.php``
 - ``PEAR/Error.php``
 - ``PEAR/ErrorStack.php``
-- ``PEAR/ErrorStack5.php``
 - ``System.php``
 
 
