@@ -1,7 +1,7 @@
 {
     "name": "pear/pear-core-minimal",
     "description": "Minimal set of PEAR core files to be used as composer dependency",
-    "license": "New BSD",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "email": "cweiske@php.net",
