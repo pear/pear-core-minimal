@@ -26,7 +26,7 @@
         "pear/console_getopt": "~1.3",
         "pear/pear_exception": "~1.0"
     },
-    "provide": {
-        "rsky/pear-core-min": "*"
+    "replace": {
+        "rsky/pear-core-min": "self.version"
     }
 }
