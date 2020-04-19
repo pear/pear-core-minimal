@@ -1,3 +1,2 @@
-/.gitignore export-ignore
-/.gitattributes export-ignore
+/.* export-ignore
 /copy-from-pear-core.sh export-ignore
